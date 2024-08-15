@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">SmartPayment</string>
+
+    <string name="error_dialog_title">Ocurrio un error</string>
+    <string name="try_again">Intentar de nuevo</string>
+    <string name="error_generic">¡Opps! Ocurrio un error desconocido</string>
+
+    <string name="unknown_host_exception_error">No hay connexion a internet</string>
+    <string name="wrong_user_or_password">Usuario o contraseña equivocado</string>
+    <string name="user_already_exists">Usuario existente</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="parameter_non_null_is_null">Parametro declarado como no nulo, es nulo</string>
+
+    <string name="gravity_format">Gravedad: %1$s</string>
+    <string name="rotation_period_format">Periodo de rotacion: %1$s horas</string>
+    <string name="orbital_period_period_format">Periodo de traslacion: %1$s dias</string>
+    <string name="diameter_format">Diametro: %1$s km</string>
+    <string name="climate_format">Clima: %1$s</string>
+    <string name="terrain_format">Tipo de Terreno(s): %1$s</string>
+
+    <string name="name_input">Nombre: </string>
+    <string name="surname_paternal_input">Apellido Paterno: </string>
+    <string name="surname_maternal_input">Apellido Materno: </string>
+    <string name="birthdate_input">Fecha de Nacimiento: </string>
+    <string name="country_input">Pais: </string>
+
+    <string name="register_btn">Registrar</string>
+
 </resources>
